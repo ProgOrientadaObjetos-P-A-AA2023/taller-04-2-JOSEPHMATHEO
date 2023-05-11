@@ -11,7 +11,7 @@ public class Cheque {
     public Cheque(Cliente c, double valC){
     
         cl = c;
-        valorCheque = valC;
+       
     
     }
     

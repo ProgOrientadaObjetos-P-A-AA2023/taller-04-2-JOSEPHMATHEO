@@ -102,7 +102,7 @@ public class Profesor {
                 "Sueldo Basico: %.2f\n" +
                 "Sueldo Total: %.2f\n" +
                 "Cedula: %s\n" +
-                "Provincia de Nacimiento: %s\n",
+                "Provincia de Nacimiento: %s\n" +,
                 
                 obtenerNombre(),
                 obtenerApellido(),
